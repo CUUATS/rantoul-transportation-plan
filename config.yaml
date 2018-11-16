@@ -1,6 +1,6 @@
-baseURL: https://cuuats.org/plans/plan-name
+baseURL: https://cuuats.org/plans/rantoul
 languageCode: en-us
-title: Plan Name
+title: Village of Rantoul Transportation Plan
 theme: plandocument
 params:
   agency:
